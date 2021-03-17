@@ -1,4 +1,4 @@
-# Payment Gateway Integartion The Sparks Foundation GRIP March 2021
+# Payment Gateway Integration The Sparks Foundation GRIP March 2021
 Sparks Foundation Internship Project : Payment Gateway Integration
 
 This Repository is containing files related with payment gateway integration for The Sparks Foundation GRIP March 2021 Batch Internship
